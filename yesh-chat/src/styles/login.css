@@ -1,0 +1,89 @@
+#logo{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#login{    
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    max-width: 650px;
+}
+
+.card {
+    --bs-card-spacer-y: 10rem;
+    --bs-card-title-spacer-y: 2.5rem;
+    --bs-card-border-color: #ffc107;
+    --bs-card-spacer-x: 0rem;
+    
+}
+#login .card-body{
+    padding-top: 40px;
+    padding-bottom: 0px;   
+}   
+#reg-card-body{
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.card-header{
+    padding-top: 12px;
+}
+
+#parent { white-space: nowrap; }
+.child { display: inline-block; }
+
+#foo{
+    margin-top: 35px;
+    
+}
+.custom-btn {
+    background-color: #E8A5A4;
+    border-color: #E8A5A4;
+    color: black;
+    font-family: sans-serif; 
+    --bs-btn-font-size: 1.1rem;
+}  
+
+body{
+    background-image: url('../backGround.jpg')
+
+}
+
+#content{
+    padding-left: 75px;
+}
+
+#register {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+#content h5 {
+    margin-top: 20px;
+}
+
+.btn.custom-btn{
+    margin-bottom: 25px;
+}
+
+#upload_imj{
+    margin-left: 15px;
+}
+
+h6{
+    color: red;
+    font-weight: 400;
+}
+
+#preview{
+    display: none;
+    max-width: 200px; 
+    max-height: 200px;
+}
