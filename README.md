@@ -83,7 +83,7 @@ Here are some example images showcasing the Yesh-Chat Web Application:
   
   *Chats Page*
 
-For the parallel Android application, please visit the repository [here](#).
+For the parallel Android application, please visit the repository [here](https://github.com/yeela8g/Yesh-Chat-Mobile-App).
 
 ---
 **Thank you for using the Yesh-Chat Web Application! We hope you enjoy the messaging experience it offers!** :pray:	
