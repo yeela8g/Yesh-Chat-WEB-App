@@ -30,10 +30,18 @@ For accessing the live demo of the Yesh-Chat Web Application [Press here !!](htt
 
 
 ### Languages and Technologies :bulb:	
-- React (JSX, CSS) 
+- React (JSX, CSS)
+![image](https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/9fe7d7e8-a180-46e0-9808-7eda332e0777)
+
 - Node.js
-- express 
+![image](https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/147c9bf0-8fe2-4eb6-91de-557194f61cc4)
+
+- express
+![image](https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/1502fbaf-eb91-4774-b798-e4514e4c5e5d)
+
 - MongoDB
+![image](https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/5986867d-a8f5-49a1-879f-cef13e9d9bd7)
+
 
 ## :running_woman:	 How to Run :running_woman:	
 
