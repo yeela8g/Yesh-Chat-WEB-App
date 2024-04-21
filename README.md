@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/yeela8g/social-chat-App/assets/118124478/90a7dc71-9d3e-4006-9cf7-8b95ba5d37bd" width="120" />
+  <img src="https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/49e221ba-4dac-4d5f-a051-e81b38441f39" width="200" />
 </p>
 
 ## :open_book:	Table of Contents :open_book:	
@@ -25,23 +26,14 @@ or smartphone, you can expect consistent performance and adaptability to differe
 
 For accessing the live demo of the Yesh-Chat Web Application [Press here !!](https://social-chat-app-23.onrender.com/)
 
-![image](https://github.com/yeela8g/social-chat-App/assets/118124478/542c1388-0965-4bdc-be4a-332b5b556fd9)
+![image](https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/a10f16ae-9bce-4ddb-9ccb-e551d038e759)
 
 
 ### Languages and Technologies :bulb:	
-- React (JSX, CSS)
-![image](https://github.com/yeela8g/social-chat-App/assets/118124478/78d37254-cc3c-4a45-8059-67ac65592c73)
-
+- React (JSX, CSS) 
 - Node.js
-![image](https://github.com/yeela8g/social-chat-App/assets/118124478/22f672c2-fbdb-44cd-b32e-1a6825829dde)
-
 - express 
-![image](https://github.com/yeela8g/social-chat-App/assets/118124478/3476db11-b630-41cf-8b1d-89cf8272396b)
-
 - MongoDB
-![image](https://github.com/yeela8g/social-chat-App/assets/118124478/c757ce6c-6632-45bd-9bd7-088638dc6ce6)
-
-
 
 ## :running_woman:	 How to Run :running_woman:	
 
@@ -55,7 +47,7 @@ To run the Yesh-Chat Web Application on your local machine, follow these steps:
 
 4. **Start the Server**: Execute `npm start` to start the server. 
 
-5. **Start the App**: The server will run on **port 5000** and can be accessed through the browser. just write the [url](http://localhost:5000/)
+5. **Start the App**: The server will run on **port 5000** and can be accessed through the browser. just enter to this [url](http://localhost:5000/)
    
 
 ## How to Use 
@@ -71,15 +63,15 @@ Once the application is running, you can follow these steps to use it:
 ## Screenshots
 Here are some example images showcasing the Yesh-Chat Web Application:
 
-  <img width="960" alt="login" src="https://github.com/yeela8g/social-chat-App/assets/118124478/8a6a2601-b8d7-4bf1-9103-5e47301e9c98">
+  <img width="800" alt="login" src="https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/4c099128-8d2f-4e14-a7ea-0249fcfb90da">
   
   *Login Page*
 
-  <img width="960" alt="register" src="https://github.com/yeela8g/social-chat-App/assets/118124478/0e84731e-160d-4a78-b5aa-07d415490fd6">
+  <img width="800" alt="register" src="https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/a3610f7b-2f22-44ea-9aa0-044a815b2355">
   
   *Registration Page*
 
-  <img width="960" alt="chats" src="https://github.com/yeela8g/social-chat-App/assets/118124478/35e4454a-f897-481c-82ab-28f2822ea26e">
+  <img width="800" alt="chats" src="https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/7cefd7d0-2617-4192-a337-dbd68286f55a">
   
   *Chats Page*
 
