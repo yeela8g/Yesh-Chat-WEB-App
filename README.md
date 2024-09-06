@@ -11,6 +11,9 @@
 - How to Use
 - Screenshot
 
+For the parallel Android application, please visit the repository [here](https://github.com/yeela8g/Yesh-Chat-Mobile-App).
+
+
 ## :woman_cartwheeling: About the Project :woman_cartwheeling:
 
 Welcome to Yesh-Chat! This project is a dynamic and responsive web-based messaging application designed to offer seamless communication experiences across various devices.
@@ -82,8 +85,6 @@ Here are some example images showcasing the Yesh-Chat Web Application:
   <img width="800" alt="chats" src="https://github.com/yeela8g/Yesh-Chat-WEB-App/assets/118124478/7cefd7d0-2617-4192-a337-dbd68286f55a">
   
   *Chats Page*
-
-For the parallel Android application, please visit the repository [here](https://github.com/yeela8g/Yesh-Chat-Mobile-App).
 
 ---
 **Thank you for using the Yesh-Chat Web Application! hope you enjoy the messaging experience it offers!** :pray:	
